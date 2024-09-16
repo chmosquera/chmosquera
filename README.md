@@ -50,25 +50,37 @@
 <table>
   <tr>
   <td>
+      
+[![Tessellation-Demo](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=Tessellation-Demo&theme=calm)](https://github.com/chmosquera/Tessellation-Demo)
+    
+  </td>
+  <td>
     
 [![Feather Fall Game](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=feather-fall-game&theme=calm)](https://github.com/chmosquera/Feather-Fall-Game)
     
   </td>
+  </tr>
+  <tr>  
   <td>
   
   [![Dragon Skeleton Animation](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=dragon-skeleton-animation&theme=calm)](https://github.com/chmosquera/Dragon-Skeleton-Animation)
     
   </td>
-</tr>
-<tr>
   <td>
   
   [![Real-time glow effect](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=real-time-glow-effect&theme=calm)](https://github.com/chmosquera/Real-Time-Glow-Effect)
     
   </td>
+</tr>
+<tr>
+  
   <td>
   
   [![Sinusoidal Explosion](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=sinusoidal-explosion&theme=calm)](https://github.com/chmosquera/Sinusoidal-Explosion)
+    
+  </td>
+  <td>
+  
     
   </td>
   </tr>
