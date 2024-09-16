@@ -14,6 +14,7 @@
 
 💻 For work (_and sometimes just for fun_) I enjoy developing in the graphics and game space, whether it's for video games, simulations, or interactive experiences. 
 - (2020 - 2024)  At **AWS**, I helped cross-industry companies leverage gaming technology by developing and documenting game-tech cloud services, and creating the developer guide for O3DE (formerly Lumberyard).
+  - I was contibuting to [O3DE](https://github.com/o3de) using GitHub alias [@chanmosq](https://github.com/chanmosq).
 - (2024 - Present)  For the **WaxHeart** team, an indie volunteer-based game studio, I'm a **Unity Developer** helping make a spooky 3D world come to life.
 - (2024 - Present)  I'm a **Game Developer** at **STEMtales**, an educational game studio, making games in **Godot** and advocating for more STEM learning.
 
