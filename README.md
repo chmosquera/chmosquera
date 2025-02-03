@@ -17,6 +17,7 @@
   - I was contibuting to [O3DE](https://github.com/o3de) using GitHub alias [@chanmosq](https://github.com/chanmosq).
 - (2024)  For the **WaxHeart** team, an indie volunteer-based game studio, I contributed as a **Unity Developer** helping make a spooky 3D world come to life.
 - (2024)  As a **Game Developer** at **STEMtales**, an educational game studio, I prototyped games in **Godot** while advocating for more STEM learning in the EdTech and Games communities.
+- (Current)  As a **Visualization Engineer** at 10K Science, I develop and optimize real-time interactive data visualizations in Unity, using C# and HLSL. 
 
 🎮 My favorite games are Roller Coaster Tycoon and The Sims 3. Strategies and simulations are my must-plays, but I truly play almost anything. Preferably no horror and no expert-modes. 
 
