@@ -10,16 +10,15 @@
 
 ### About me
 
-🛠️ A craftsperson in both the digital and real worlds. Whatever I'm up to, you'll find me honing in on my technique and design.
+A craftsperson in both the digital and real worlds. Whatever I'm up to, you'll find me honing in on my technique and design.
 
-💻 For work (_and sometimes just for fun_) I enjoy developing in the graphics and game space, whether it's for video games, simulations, or interactive experiences. 
+For work (_and sometimes just for fun_) I enjoy developing in the graphics and game space, whether it's for video games, simulations, or interactive experiences. 
+- (2024-2026)  As a **Visualization Engineer** at 10K Science, I develop and optimize real-time interactive data visualizations in Unity, using C# and HLSL.
+- (2024)  For the **WaxHeart** team, an indie volunteer-based game studio, I contributed as a **Unity Developer** helping make a spooky 3D world come to life.
 - (2020 - 2024)  At **AWS**, I helped cross-industry companies leverage gaming technology by developing and documenting game-tech cloud services, and creating the developer guide for O3DE (formerly Lumberyard).
   - I was contibuting to [O3DE](https://github.com/o3de) using GitHub alias [@chanmosq](https://github.com/chanmosq).
-- (2024)  For the **WaxHeart** team, an indie volunteer-based game studio, I contributed as a **Unity Developer** helping make a spooky 3D world come to life.
-- (2024)  As a **Game Developer** at **STEMtales**, an educational game studio, I prototyped games in **Godot** while advocating for more STEM learning in the EdTech and Games communities.
-- (Current)  As a **Visualization Engineer** at 10K Science, I develop and optimize real-time interactive data visualizations in Unity, using C# and HLSL. 
 
-🎮 My favorite games are Roller Coaster Tycoon and The Sims 3. Strategies and simulations are my must-plays, but I truly play almost anything. Preferably no horror and no expert-modes. 
+My favorite games are Roller Coaster Tycoon and The Sims 3. Strategies and simulations are my must-plays, but I truly play almost anything. Preferably no horror and no expert-modes. 
 
 ### Skills
 <!-- Got icons from https://github.com/devicons/devicon/tree/master/icons -->
@@ -53,24 +52,24 @@
   <tr>
   <td>
       
-[![Tessellation-Demo](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=Tessellation-Demo&theme=calm)](https://github.com/chmosquera/Tessellation-Demo)
+[Tessellation-Demo](https://github.com/chmosquera/Tessellation-Demo)
     
   </td>
   <td>
     
-[![Feather Fall Game](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=feather-fall-game&theme=calm)](https://github.com/chmosquera/Feather-Fall-Game)
+[Feather Fall Game](https://github.com/chmosquera/Feather-Fall-Game)
     
   </td>
   </tr>
   <tr>  
   <td>
   
-  [![Dragon Skeleton Animation](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=dragon-skeleton-animation&theme=calm)](https://github.com/chmosquera/Dragon-Skeleton-Animation)
+  [Dragon Skeleton Animation](https://github.com/chmosquera/Dragon-Skeleton-Animation)
     
   </td>
   <td>
   
-  [![Real-time glow effect](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=real-time-glow-effect&theme=calm)](https://github.com/chmosquera/Real-Time-Glow-Effect)
+  [Real-time glow effect](https://github.com/chmosquera/Real-Time-Glow-Effect)
     
   </td>
 </tr>
@@ -78,7 +77,7 @@
   
   <td>
   
-  [![Sinusoidal Explosion](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=sinusoidal-explosion&theme=calm)](https://github.com/chmosquera/Sinusoidal-Explosion)
+  [Sinusoidal Explosion](https://github.com/chmosquera/Sinusoidal-Explosion)
     
   </td>
   <td>
@@ -99,7 +98,7 @@
 
 - [sCool Builder Game](https://chmosquera.github.io/note/sCool) - A blog post about the "builder" game type I prototyped for an educational mobile game using Unity and C#.
 
-[![ANX-Dread-VR-Experience](https://github-readme-stats.vercel.app/api/pin/?username=chmosquera&repo=ANX-Dread-VR-Experience&theme=calm)](https://github.com/chmosquera/ANX-Dread-VR-Experience)
+[ANX-Dread-VR-Experience](https://github.com/chmosquera/ANX-Dread-VR-Experience)
 
 
 <!-- <div>
